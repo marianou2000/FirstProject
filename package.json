@@ -1,0 +1,14 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "My First JS Project with OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "keywords": [
+    "firstproject"
+  ],
+  "author": "MarianoUrbina",
+  "license": "ISC"
+}
